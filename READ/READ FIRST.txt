@@ -1,0 +1,7 @@
+﻿COPY FOLDER 
+
+INDEX BEL SEKOLAH KE DRIVE D:\\
+
+COPY FILE
+
+ReadMe Bel Sekolah Otomatis.txt KE DRIVE C:\\
